@@ -1,25 +1,21 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className='main'>
+      <div className="App">
+        <div className="left">
+          <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1563888018200/lJaohMmyY.png" height='100px' />
+        </div>
+        <div className="right">
+          <h1>DSC SAMRAT ASHOK TECHNOLOGICAL INSTITUTE</h1>
+          <p className='para'>Powered by Google Developers</p>
+        </div>
+      </div>
+      <hr />
     </div>
+
   );
 }
 
