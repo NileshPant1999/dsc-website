@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e5fb7f03a29b000aa84a90111dd2382e",
+    "revision": "79ed2cf225a661350af933e05fd58d43",
     "url": "/dsc-website/index.html"
   },
   {
-    "revision": "e98b050d75276e7826b9",
-    "url": "/dsc-website/static/css/main.5b8a9864.chunk.css"
+    "revision": "0ef13f4a9939bbbb7a37",
+    "url": "/dsc-website/static/css/main.729e457e.chunk.css"
   },
   {
     "revision": "ed9aa22dc1bf0a4dd8e4",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dsc-website/static/js/2.4d97316c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e98b050d75276e7826b9",
-    "url": "/dsc-website/static/js/main.81e2dde3.chunk.js"
+    "revision": "0ef13f4a9939bbbb7a37",
+    "url": "/dsc-website/static/js/main.f5b15a18.chunk.js"
   },
   {
     "revision": "5283d32be8c0d2125c14",
