@@ -1,5 +1,9 @@
 import "./Navbar.css"
 import React from 'react'
+import InstagramIcon from '@material-ui/icons/Instagram';
+import LinkedInIcon from '@material-ui/icons/LinkedIn';
+import FacebookIcon from '@material-ui/icons/Facebook';
+
 
 function Navbar() {
     return (
@@ -12,11 +16,10 @@ function Navbar() {
                     <li>About</li>
                 </ul>
             </div>
-            <div className="right">
-                <ul className='list'>
-                    <li>dcssati2020@gmail.com</li>
-                    <li>Log In</li>
-                </ul>
+            <div className="right1">
+                <LinkedInIcon className='icon' />
+                <InstagramIcon className='icon' />
+                <FacebookIcon className='icon' />
             </div>
         </div>
     )

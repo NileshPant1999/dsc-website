@@ -2,6 +2,7 @@
     color: white;
     display: flex;
     justify-content: space-between;
+    transition: transform 450ms;
 }
 
 .list{
@@ -9,11 +10,28 @@
 }
 
 li{
-    padding-left: 30px;
+    padding-left: 29px;
     font-size: 20px;
-    padding-right: 20px;
+    padding-right: 29px;
     list-style-type: none;
 }
-.right{
-    padding-right: 70px;
+.right1{
+    padding-right: 50px;
+    display: flex;
+    align-items: center;
+}
+.icon{
+    margin-right: 50px;
+  
+}
+
+li:hover{
+    background-color: white;
+    color: black;
+    cursor: pointer;
+}
+
+.icon:hover{
+    transform: scale(1.5);
+    cursor: pointer;
 }

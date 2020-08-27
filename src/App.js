@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import Navbar from './Navbar';
+import MainSection from './MainSection';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       </div>
       <hr />
       <Navbar />
+      <MainSection />
     </div>
 
   );

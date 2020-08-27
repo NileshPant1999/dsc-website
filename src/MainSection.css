@@ -1,0 +1,29 @@
+.main__section{
+    display: flex;
+}
+.main__sectionLeft{
+    margin-left: 70px;
+    margin-top: 20px;
+}
+
+.main__sectionRight{
+    color: white;
+    margin-top: -69px;
+    margin-left: 150px;
+    font-size: 50px;
+    text-align: center;
+    width: 30%;
+}
+
+.sub_heading{
+    font-size: 20px;
+    margin-top: 70px;
+}
+.sub1_heading{
+    font-size: 20px;
+    margin-top: 40px;
+}
+
+.btn{
+    margin-top: 20px;
+}
