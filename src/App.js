@@ -3,6 +3,7 @@ import './App.css';
 import Navbar from './Navbar';
 import MainSection from './MainSection';
 import MainSection2 from './MainSection2';
+import TakeAction from "./TakeAction"
 
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
       <MainSection />
       <MainSection2 />
       <h1 className='event'>Up Coming Events</h1>
+      <TakeAction />
     </div>
 
   );
