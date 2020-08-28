@@ -32,17 +32,19 @@
     .main__section{
         display: flex;
         flex-direction: column;
-        margin-top: -200px;
+        margin-top: -180px;
     }
-    .main__sectionLeft{
-        width: 200px;
+    
+    hr{
+        width: 70%;
     }
     img{
-        width: 300px;
-        margin-left: -50px;
+        width: 350px;
+        margin-left: -40px;
         object-fit: contain;
     }
     .main__sectionRight{
         font-size: 20px;
+        margin-top: -150px;
     }
 }
