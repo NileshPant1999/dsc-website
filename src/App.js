@@ -2,6 +2,8 @@ import React from 'react';
 import './App.css';
 import Navbar from './Navbar';
 import MainSection from './MainSection';
+import MainSection2 from './MainSection2';
+
 
 function App() {
   return (
@@ -18,6 +20,8 @@ function App() {
       <hr />
       <Navbar />
       <MainSection />
+      <MainSection2 />
+      <h1 className='event'>Up Coming Events</h1>
     </div>
 
   );
