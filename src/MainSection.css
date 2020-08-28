@@ -27,3 +27,22 @@
 .btn{
     margin-top: 20px;
 }
+
+@media only screen and (max-width: 600px){
+    .main__section{
+        display: flex;
+        flex-direction: column;
+        margin-top: -200px;
+    }
+    .main__sectionLeft{
+        width: 200px;
+    }
+    img{
+        width: 300px;
+        margin-left: -50px;
+        object-fit: contain;
+    }
+    .main__sectionRight{
+        font-size: 20px;
+    }
+}

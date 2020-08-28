@@ -35,3 +35,18 @@ li:hover{
     transform: scale(1.5);
     cursor: pointer;
 }
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+a:hover{
+    color: black;
+}
+
+@media only screen and (max-width: 600px) {
+    .navbar{
+        display: none;
+    } 
+}

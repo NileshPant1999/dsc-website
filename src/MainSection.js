@@ -14,7 +14,7 @@ function MainSection() {
                 <p className="sub_heading">Take Action Now</p>
                 <p className="sub1_heading">Are you a Developer, Manager, or Designer?
                       Then this is your community</p>
-                <Button className='btn' variant="contained">  Join Us  </Button>
+                <Button href="https://forms.gle/btb9SkfvpbhBW3gFA" className='btn' variant="contained">  Join Us  </Button>
 
             </div>
         </div>
