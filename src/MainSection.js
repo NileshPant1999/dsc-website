@@ -7,7 +7,7 @@ function MainSection() {
     return (
         <div className='main__section'>
             <div className='main__sectionLeft'>
-                <img src='https://miro.medium.com/max/8064/1*UAM0cE0Dko0zTTK443fKZg.jpeg' height="600px" />
+                <img className='imag' src='https://miro.medium.com/max/8064/1*UAM0cE0Dko0zTTK443fKZg.jpeg' height="600px" />
             </div>
             <div className="main__sectionRight">
                 <h2 className='heading'>JOIN DEVELOPER STUDENT CLUB </h2>

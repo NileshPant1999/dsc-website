@@ -3,7 +3,9 @@ import './App.css';
 import Navbar from './Navbar';
 import MainSection from './MainSection';
 import MainSection2 from './MainSection2';
-import TakeAction from "./TakeAction"
+import TakeAction from "./TakeAction";
+import Footer from "./Footer"
+
 
 
 function App() {
@@ -22,8 +24,10 @@ function App() {
       <Navbar />
       <MainSection />
       <MainSection2 />
-      <h1 className='event'>Up Coming Events</h1>
+      <h1 className='event'>ENGAGE YOURSELF</h1>
+      <p className='eventp'>Developer Student Club encourages everyone to play their part in our Student Movement. The only way we succeed is when the change comes from within, and we want to empower you to take an active role. Learn more about the opportunities available to lend your support.</p>
       <TakeAction />
+      <Footer />
     </div>
 
   );

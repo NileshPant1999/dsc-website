@@ -29,6 +29,12 @@ span{
   text-align: center;
   font-size: 50px;
 }
+.eventp{
+  text-align: center;
+  width: 50%;
+  margin-left: 450px;
+}
+
 
 @media only screen and (max-width: 600px){
   .App{
@@ -43,5 +49,9 @@ span{
   }
   span{
     display: none;
+  }
+  .eventp{
+    margin-left: 20px;
+    width: 90%;
   }
 }

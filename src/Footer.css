@@ -1,0 +1,136 @@
+.footer__main{
+    text-decoration:none;
+    list-style-type:none;
+    box-sizing: border-box;
+
+  
+    overflow: auto;
+    overflow-x: hidden;
+    -webkit-font-smoothing:antialiased;
+  }
+  #line{
+    display:block;
+    background-color:black;
+    width:350px;
+    height:10px;
+    margin-left: 745px;
+  }
+  #join{
+    text-align:center;
+    width:100vw;
+    height:auto;
+    color: black;
+    background-color: rgb(246, 247, 235);
+    font-family:Georgia;
+    padding-top:50px;
+    padding-bottom:75px;
+  }
+  #join>p{
+    font-weight:bold;
+    text-transform:uppercase;
+    padding-top:25px;
+  }
+  #join>h1{
+    font-weight:bold;
+    padding-top:25px;
+  }
+  #container{
+    width:100vw;
+    height:auto;
+    background-color:grey;
+    display:flex;
+    justify-content:center;
+  }
+  #footer{
+    width:100vw;
+    height:auto;
+    display:flex;
+    background-color:grey;
+    color:white;
+    justify-content:center;
+    font-family: Georgia;
+    padding-bottom:50px;
+  }
+  #service,#aboutus,#location,#joinus{
+    flex:1 0 100px;
+    padding-top:50px;
+    padding-left:10px;
+  }
+ .Service {
+     margin-left: 67px;
+ }
+ .About{
+     margin-left: 67px;
+ }
+  #location>p{
+    padding-top:10px;
+  }
+  #joinus>p{
+    padding-top:10px;
+  }
+  
+  
+  .a_link{
+    text-decoration:none;
+    color:white;
+  }
+  .a_link:hover{
+    color:black;
+  }
+  #copy{
+    background-color: rgb(39, 33, 33);
+    opacity:0.7;
+    color: white;
+    width: 100vw;
+    height: auto;
+    text-align: center;
+    padding:10px;  
+  }
+  #logo > img{
+    width: 300px;
+    object-fit: contain;
+    padding-top: 60px;
+    padding-left: 30px;
+  }
+  #logo>h1{
+    margin-top:50px;
+    border:5px solid white;
+    padding:10px;
+  }
+  @media (max-width: 800px) {
+    #footer{
+     flex: 0 0 100px;
+     width: 100%;
+      height:700px;
+      flex-wrap:wrap;
+      text-align:center;
+      align-items:center;
+      justify-content:center;
+    transform:translate(-20%);
+    margin-right: 300px;
+    }
+    #join{
+        font-size: 10px;
+    }
+    
+    .footer__main{
+        margin-left: 20px;
+    }
+    .nav__li{
+      position:relative;
+      left:-15%;
+    }
+    .Service{
+        padding-right: 60px;
+    }
+    .About{
+        padding-right: 60px;
+    }
+    #joinus{
+        display: none;
+    }
+    #logo{
+    visibility:hidden;
+    }
+    }
+  

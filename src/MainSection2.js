@@ -7,7 +7,7 @@ function MainSection() {
     return (
         <div className='main__section2'>
             <div className='main__sectionLeft2'>
-                <img src='https://miro.medium.com/max/8064/1*UAM0cE0Dko0zTTK443fKZg.jpeg' height="600px" />
+                <img className='imag' src='https://miro.medium.com/max/8064/1*UAM0cE0Dko0zTTK443fKZg.jpeg' height="600px" />
             </div>
             <div className="main__sectionRight2">
                 <h2 className='heading2'>WHO ARE WE ? </h2>
