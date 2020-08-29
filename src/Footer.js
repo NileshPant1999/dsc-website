@@ -10,7 +10,7 @@ function Footer() {
             <div id="join">
                 <p>Connect to us!</p>
                 <div id='line'></div>
-                <h1>nileshpant1999@gmail.com</h1>
+                <h1>dscsati2020@gmail.com</h1>
             </div>
             <div id='foot'>
                 <div id="container">
@@ -44,7 +44,7 @@ function Footer() {
                             <h2>Join Us</h2>
                             <p>Talents are always welcome. <br />
                             send your resume to
-        <br />pant.nilesh1999@gmail.com </p>
+        <br />dscsati2020@gmail.com</p>
                         </div>
                     </div>
                 </div>
