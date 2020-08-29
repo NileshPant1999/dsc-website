@@ -1,11 +1,12 @@
 .main__section2{
     display: flex;
     flex-direction: row-reverse;
-    margin-top: 50px;
+    margin-top: 90px;
 }
 .main__sectionLeft2{
     margin-right: 60px;
     margin-top: 20px;
+    margin-bottom: 30px;
 }
 
 .main__sectionRight2{
