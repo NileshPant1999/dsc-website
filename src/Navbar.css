@@ -50,9 +50,19 @@ li:hover{
   color: white;
 }
 
-a:hover{
-    color: black;
+
+.social_icons{
+    text-decoration: none;
+    color: white;
 }
+
+.social_icons:hover{
+    transform: scale(1.01);
+    cursor: pointer;
+    color: white;
+}
+
+/*
 
 @media only screen and (max-width: 600px) {
     .navbar{
@@ -70,3 +80,5 @@ a:hover{
     cursor: pointer;
     color: white;
 }
+
+*/

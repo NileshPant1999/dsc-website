@@ -2,14 +2,14 @@
     display: flex;
 }
 .main__sectionLeft{
-    margin-left: 80px;
+    margin-left: 70px;
     margin-top: 20px;
 }
 
 .main__sectionRight{
     color: white;
-    margin-top: -69px;
-    margin-left: 150px;
+    margin-top: -30px;
+    margin-left: 230px;
     font-size: 50px;
     text-align: center;
     width: 30%;
@@ -27,6 +27,8 @@
 .btn{
     margin-top: 20px;
 }
+
+/*
 
 @media only screen and (max-width: 600px){
     .main__section{
@@ -63,3 +65,5 @@
         margin-left: -105px;
     }
 }
+
+*/

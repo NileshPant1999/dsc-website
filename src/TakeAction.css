@@ -25,6 +25,8 @@
     opacity: 0.5;
 }
 
+/*
+
 @media only screen and (max-width: 600px){
     .events{
         flex-direction: column;
@@ -48,3 +50,5 @@
 .take_actions{
     margin-top: 50px;
 }
+
+*/

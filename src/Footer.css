@@ -13,7 +13,7 @@
     background-color:black;
     width:350px;
     height:10px;
-    margin-left: 745px;
+    margin-left: 790px;
   }
   #join{
     text-align:center;
@@ -68,8 +68,6 @@
   #joinus>p{
     padding-top:10px;
   }
-  
-  
   .a_link{
     text-decoration:none;
     color:white;
@@ -97,6 +95,8 @@
     border:5px solid white;
     padding:10px;
   }
+
+  /*
   @media (max-width: 800px) {
     #footer{
      flex: 0 0 100px;
@@ -134,3 +134,4 @@
     }
     }
   
+    */
